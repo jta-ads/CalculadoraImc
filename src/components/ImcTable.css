@@ -1,0 +1,25 @@
+#table-container{
+    color: #fff;
+}
+#table-container h1 {
+    margin-bottom: 0;
+}
+#table-imc{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+table{
+    margin-top: 1rem;
+    color: #fff;
+    font-weight: bolder;
+    border-bottom: 1px solid white;
+    font-size: 0.9rem;
+}
+
+.tabela1 thead tr td{
+
+}
+
+
+
