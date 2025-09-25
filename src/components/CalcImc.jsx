@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import BtnImc from './BtnImc'
+import "./CalcImc.css"
 
 const CalcImc = ({action}) => {
     const [altura, setAltura] = useState("")
