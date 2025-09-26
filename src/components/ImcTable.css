@@ -4,22 +4,30 @@
 #table-container h1 {
     margin-bottom: 0;
 }
-#table-imc{
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
+
 table{
+    text-align: center;
     margin-top: 1rem;
     color: #fff;
     font-weight: bolder;
-    border-bottom: 1px solid white;
-    font-size: 0.9rem;
-}
-
-.tabela1 thead tr td{
+    font-size: 0.8rem; 
+    width: 100%; 
 
 }
+
+th, td{
+   text-align: center;
+   border-bottom: 1px solid #fff;
+}
+td:first-child{
+    text-align: left;
+}
+.btnTable{
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
 
 
 
